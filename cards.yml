@@ -1,0 +1,14 @@
+
+
+build:
+  version: 1.0
+
+cards:
+  message: "Welcome to Cards Service"
+  contact-details:
+    name: "Omar"
+    email: "omar@example.com"
+
+  on-call-support:
+    - "01000000000"
+    - "01111111111"

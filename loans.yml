@@ -1,0 +1,14 @@
+
+
+build:
+  version: 1.0
+
+loans:
+  message: "Welcome to Accounts Service"
+  contact-details:
+    name: "Omar"
+    email: "omar@example.com"
+
+  on-call-support:
+    - "01000000000"
+    - "01111111111"

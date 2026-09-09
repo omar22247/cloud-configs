@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version: 2.0
+
+loans:
+  message: "Welcome to qa loans-service  APIs"
+  contact-details:
+    name: "Omar card-service"
+    email: "omar@example.com"
+
+  on-call-support:
+    - "01000000000"
+    - "01111111111"

@@ -1,0 +1,12 @@
+build:
+  version: 3.0
+
+accounts:
+  message:  "Welcome to accounts Production APIs"
+  contact-details:
+    name: "Omar--------------prod"
+    email: "omar@example.com"
+
+  on-call-support:
+    - "01000000000"
+    - "01111111111"
