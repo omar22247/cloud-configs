@@ -9,7 +9,7 @@ cards:
   message: "Welcome to qa loans-service  APIs"
   contact-details:
     name: "Omar card-service"
-    email: "omar@example.com"
+    email: "omar@example.com test refresh"
 
   on-call-support:
     - "01000000000"
