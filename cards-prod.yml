@@ -8,7 +8,7 @@ build:
 cards:
   message: "Welcome to Production CARDS-service2222 github  dynamic APIs"
   contact-details:
-    name: "Omar rabbit mq"
+    name: "test webhook"
     email: "{cipher}e60a5677dde03d20fd3afa614f3b7232c73555cc2f14221a13d5c71ab92d83e8061b5cef9bc7b74dc0aa5d815820f6eb"
 
   on-call-support:
