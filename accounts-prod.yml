@@ -4,7 +4,7 @@ build:
 accounts:
   message:  "Welcome to accounts Production APIs"
   contact-details:
-    name: "Omar--------------prod000"
+    name: "Omar--------------prod0000"
     email: "omar@example.com"
 
   on-call-support:
