@@ -8,7 +8,7 @@ build:
 loans:
   message: "Welcome to Production loans-service  APIs"
   contact-details:
-    name: "Omar production-----------------------"
+    name: "Omar 11/9"
     email: "omar@example.com"
 
   on-call-support:
